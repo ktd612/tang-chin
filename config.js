@@ -1,17 +1,14 @@
 const CONFIG = {
     introTitle: 'Chin thúi à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
+    introDesc: `Yêu Chin lắm đó. Nay sinh nhật Chin ùi,sang tuổi mới ùi,nhớ phải ngoan và học giỏi hưn nhá. Yêu tôi hơn nữa e hèm!! `,
+    btnIntro: 'Ấn tiếp đi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Yêu Be thúi',
     btnNo: 'Không, lew lew :)))',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Yêu Khánh lắm luôn',
     mess: 'Anh biết mà 🥰. Lớp duuuu 😘😘',
     messDesc: 'Sinh nhật vui vẻ nhá Chin',
     btnAccept: 'HiHiiii =)))))',
